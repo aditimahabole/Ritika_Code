@@ -1,0 +1,11 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 ;
+  padding: 0;
+  /* position: relative; */
+ 
+} 
+.App_div
+{
+  background-color: var(--hiight-blue-950);
+}
